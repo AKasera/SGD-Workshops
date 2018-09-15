@@ -1,0 +1,1 @@
+Tutorial on proper practices on using the Unity Animator, as well as StateBehaviours
